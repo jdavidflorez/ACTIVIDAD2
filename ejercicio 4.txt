@@ -1,0 +1,15 @@
+EJERCICIO N°4
+
+Existe un conjunto de empresas que producen varios productos, también hay un conjunto de promotores que trabajan en las empresas. 
+Cada promotor trabaja para una sola empresa y vende un único producto de esta.
+
+a.Dada la siguiente solución, ¿qué restricciones habría que agregar para que represente la realidad descrita?
+R/ No tendira  restricciones, porque el modelo  está representando la realidad descripta. 
+
+b.¿Qué cambios deberían hacerse si todos los productos deben tener un promotor asociado?
+R/ El cambio se vendría en el promotor, ya que el promotor tiene trabajadores para el.
+
+c.Describa otras alternativas para representar la realidad planteada sin tener en cuenta la parte b. y discutiendo las posibles anomalías.
+R/ 
+Hay una serie de empresas que desean crear varios productos,  cada producto puede ser vendido por varios promotores, no obstante solo un 
+promotor puede vender un solo producto,  un promotor puede trabajar en una sola empresa y  una empresa puede tener varios promotores
